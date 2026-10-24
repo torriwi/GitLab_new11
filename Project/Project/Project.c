@@ -1,8 +1,8 @@
 ﻿#include <stdio.h>
 int main() {
-	int a;
+	int a=10;
 	int b;
-	int c;
-	printf("main");
+	int c=24;
+	printf("test");
 	return 0;
 }
