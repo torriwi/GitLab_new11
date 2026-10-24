@@ -2,6 +2,6 @@
 int main() {
 	int a;
 	int b;
-	ptintf("text");
+	ptintf("text_123");
 	return 0;
 }
